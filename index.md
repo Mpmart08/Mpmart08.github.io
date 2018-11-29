@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+# Projects
 
-You can use the [editor on GitHub](https://github.com/Mpmart08/mpmart08.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Data Structures and Algorithms
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Heap and Merge Sort](https://github.com/Mpmart08/heap-merge-sort)
 
-### Markdown
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Templated Vector](https://github.com/Mpmart08/templated-vector)
 
-```markdown
-Syntax highlighted code block
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
 
-# Header 1
-## Header 2
-### Header 3
+### [DFT with MPI](https://github.com/Mpmart08/mpi-dft)
 
-- Bulleted
-- List
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
 
-1. Numbered
-2. List
+### [FFT with Threads](https://github.com/Mpmart08/multi-threaded-fft)
 
-**Bold** and _Italic_ and `Code` text
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
 
-[Link](url) and ![Image](src)
-```
+### [RSA Encryption](https://github.com/Mpmart08/rsa-encryption)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
 
-### Jekyll Themes
+## Computer Architecture
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mpmart08/mpmart08.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [Cache Simulator](https://github.com/Mpmart08/cache-simulator)
 
-### Support or Contact
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [Cache Coherency](https://github.com/Mpmart08/cache-coherency)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
+
+### [Superscalar Processor](https://github.com/Mpmart08/superscalar-processor)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
+
+### [Pipelined Processor](https://github.com/Mpmart08/vhdl-pipelined-processor)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
+
+### [Digital Circuit Test Generator](https://github.com/Mpmart08/digital-circuit-test-generator)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
+
+## FPGA
+
+### [Simple Processor](https://github.com/Mpmart08/vhdl-simple-processor)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
+
+### [VGA Image Processing](https://github.com/Mpmart08/verilog-vga-transpose)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
+
+## Miscellaneous
+
+### [Music Player](https://github.com/Mpmart08/MusicPlayer)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
+
+### [Icosahedron with OpenGL](https://github.com/Mpmart08/opengl-icosahedron)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
+
+### [Mandelbrot Set with OpenGL](https://github.com/Mpmart08/opengl-mandelbrot-set)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
+
+### [ns3 Experiments](https://github.com/Mpmart08/ns3-experiments)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
