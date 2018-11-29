@@ -68,6 +68,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lac
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
 
-### [ns3 Experiments](https://github.com/Mpmart08/ns3-experiments)
+### [ns-3 Experiments](https://github.com/Mpmart08/ns3-experiments)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
