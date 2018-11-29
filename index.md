@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lac
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
 
-### [FFT with Threads](https://github.com/Mpmart08/multi-threaded-fft)
+### [Multi-Threaded FFT](https://github.com/Mpmart08/multi-threaded-fft)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus tempor lacus, bibendum efficitur ante facilisis et. Donec et sapien pellentesque sem venenatis condimentum eu in lacus. Nulla pellentesque porta neque a porta. Nulla sollicitudin metus vitae felis tempor porta sed vitae nisl. Suspendisse potenti.
 
